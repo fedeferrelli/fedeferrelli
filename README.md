@@ -19,9 +19,9 @@ FrontEnd Developer in the making.
 
 It's never late to make a "leap" of carreer and life style: I'm also an economist with more than 10 years in the financial sector, mostly in corporate finance. But here I am, on my way into the tech world...
 
-I'm curius, focused and love to learn, keep learning and learn some more.
+I'm curious, focused and love to learn, keep learning and learn some more.
 
-⚡ Fun fact:I make my own pasta twice a week and it's spectacular!
+:spaghetti: Fun fact:I make my own pasta twice a week and it's spectacular! :spaghetti:
 
 
 [Want to know more?](https://portfolio-fedeferrelli.vercel.app/)
